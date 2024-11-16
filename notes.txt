@@ -1,3 +1,0 @@
->>git init : permet d'initiliser votre dépôt Git local.
->>git add Name_File : ajouter le fichier au suivi de Git.
-...
